@@ -4,3 +4,10 @@ narrativemagazine.com
 kuow.org
 pinterest.com
 quora.com
+# --- YouTube Infrastructure Blocks ---
+shorts.youtube.com
+# --- External Ad/Tracking Players ---
+vidsrc.to
+2embed.to
+vidcloud.to
+upstream.to
