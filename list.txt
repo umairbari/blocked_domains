@@ -8,6 +8,7 @@ quora.com
 shorts.youtube.com
 # --- External Ad/Tracking Players ---
 vidsrc.to
+vidsrc.ru
 2embed.to
 vidcloud.to
 upstream.to
