@@ -9,6 +9,19 @@ shorts.youtube.com
 # --- External Ad/Tracking Players ---
 vidsrc.to
 vidsrc.ru
+vidsrc.io
+vidsrc.bz
+vidsrc.gd
+vidsrc.do
+vidsrc.mn
+vidsrc.tw
+vid.skyy.cc
+vidsrc.pk
+fmovies-co.net
+vidsrc-to.my
+vidsrc.domains
+vidsrc.me
+vidsrc.stream
 2embed.to
 vidcloud.to
 upstream.to
