@@ -26,3 +26,10 @@ vidsrc.stream
 2embed.to
 vidcloud.to
 upstream.to
+ok.ru
+watch-movies.com.pk
+justwatch.com
+movies-digital.com
+watcho.com
+that-movie-site.com
+flixnet-film.com
