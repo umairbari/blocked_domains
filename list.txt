@@ -55,6 +55,7 @@ guide2day.com
 wordreference.com
 southparkstudios.com
 profsoaplive.com
+hoopladigital.com/
 watchseries.bar
 sling.com
 wedotv.com
@@ -62,7 +63,11 @@ lokshorts.com
 7plus.com.au
 streamlord.com
 flyingpoet.ie
+peacocktv.com
 nusamsoapbox.com
+vix.com
+xumo.com
+firesticktricks.com
 tvnz.co.nz
 mxplayer.in
 lebellesoaps.com
@@ -72,6 +77,9 @@ bestfreestreaming.org
 angel.com
 soap2day.ong
 soapgate.tv
+yidio.com
+iq.com
+filmzie.com
 thecomicslab.ie
 u.co.uk
 redwoodforests.org
@@ -82,3 +90,5 @@ mewatch.sg
 shout-tv.com
 yidio.com
 tinyzone.org
+twist-tv.com
+archive.org
