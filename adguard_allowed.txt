@@ -6,3 +6,25 @@
 ! Allowed List
 ||syncthing.com^
 ||tailscale.com^
+||classroom.google.com^
+||meet.google.com^
+||chat.google.com^
+||drive.google.com^
+||docs.google.com^
+||sheets.google.com^
+||slides.google.com^
+||groups.google.com^
+||forms.google.com^
+||apis.google.com^
+||iam.googleapis.com^
+||dynamite.googleapis.com^
+||gstatic.com^
+||googleapis.com^
+||googleusercontent.com^
+||googlevideo.com^
+||google-analytics.com^
+||stun.l.google.com^
+||accounts.google.com^
+||ssl.gstatic.com^
+||fonts.gstatic.com^
+||fonts.googleapis.com^
