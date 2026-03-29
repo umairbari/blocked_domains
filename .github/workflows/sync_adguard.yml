@@ -3,7 +3,8 @@ name: Convert Blocklist to AdGuard Format
 on:
   push:
     paths:
-      - 'list.txt' # Only runs when this file changes
+      - 'list.txt' # Only runs when one of these file changes
+      - 'allowed.txt' # Only runs when one of these file changes
   workflow_dispatch: # Allows manual trigger
 
 jobs:
@@ -28,6 +29,6 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add adguard_list.txt
-          git commit -m "Auto-update AdGuard blocklist format" || exit 0
+          git add adguard_list.txt adguard_allowed.txt
+          git commit -m "Auto-update AdGuard lists" || exit 0
           git push
