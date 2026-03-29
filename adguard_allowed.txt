@@ -5,3 +5,4 @@
 
 ! Allowed List
 ||syncthing.com^
+||tailscale.com^
