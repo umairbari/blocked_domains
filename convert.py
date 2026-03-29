@@ -3,7 +3,8 @@ import os
 # Configuration
 input_files = {
     'list.txt': 'adguard_list.txt',
-    'allowed.txt': 'adguard_allowed.txt'
+    'allowed.txt': 'adguard_allowed.txt',
+    'doh_blocklist.txt': 'adguard_doh_blocklist.txt'
 }
 
 def clean_domain(raw_line):
