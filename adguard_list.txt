@@ -1,5 +1,6 @@
 ! Title: Umair's Custom AdGuard Blocklist
-! Description: Converted from pfBlockerNG format
+! Description: Cleaned and De-duplicated pfBlockerNG source
+! Last Updated: (Managed by GitHub Actions)
 ! Expires: 1 day
 
 ||inkitt.com^
@@ -34,7 +35,7 @@
 ||watchserie.world^
 ||seriesonline.sx^
 ||dailymotion.com^
-||TVMuse.app^
+||tvmuse.app^
 ||snapchat.com^
 ||onamag.org^
 ||vidcloud.to^
@@ -102,7 +103,6 @@
 ||globaltv.com^
 ||mewatch.sg^
 ||shout-tv.com^
-||yidio.com^
 ||tinyzone.org^
 ||twist-tv.com^
 ||archive.org^

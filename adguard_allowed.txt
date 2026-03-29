@@ -1,0 +1,7 @@
+! Title: Umair's Custom AdGuard Allowlist
+! Description: Cleaned and De-duplicated allowed domains
+! Last Updated: (Managed by GitHub Actions)
+! Expires: 1 day
+
+! Allowed List
+||syncthing.com^
