@@ -1,6 +1,7 @@
 # Allowed List
 syncthing.com
 tailscale.com
+ts.net
 classroom.google.com
 meet.google.com
 chat.google.com
