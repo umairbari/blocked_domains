@@ -1,8 +1,10 @@
 import os
 
 # Configuration
-input_file = 'list.txt'
-output_file = 'adguard_list.txt'
+input_files = {
+    'list.txt': 'adguard_list.txt',
+    'allowed.txt': 'adguard_allowed.txt'
+}
 
 def clean_domain(raw_line):
     """
@@ -18,7 +20,25 @@ def clean_domain(raw_line):
     # 3. Clean whitespace and convert to lowercase for DNS consistency
     return domain.strip().lower()
 
-def convert():
+def get_header(file_type):
+    """Generate appropriate header based on file type."""
+    if file_type == 'blocked':
+        return [
+            "! Title: Umair's Custom AdGuard Blocklist",
+            "! Description: Cleaned and De-duplicated pfBlockerNG source",
+            "! Last Updated: (Managed by GitHub Actions)",
+            "! Expires: 1 day\n"
+        ]
+    else:  # allowed
+        return [
+            "! Title: Umair's Custom AdGuard Allowlist",
+            "! Description: Cleaned and De-duplicated allowed domains",
+            "! Last Updated: (Managed by GitHub Actions)",
+            "! Expires: 1 day\n"
+        ]
+
+def convert_file(input_file, output_file, file_type):
+    """Convert a single file from input format to AdGuard format."""
     if not os.path.exists(input_file):
         print(f"Error: {input_file} not found.")
         return
@@ -26,11 +46,8 @@ def convert():
     seen_domains = set()
     output_lines = []
 
-    # Add AdGuard Header
-    output_lines.append("! Title: Umair's Custom AdGuard Blocklist")
-    output_lines.append("! Description: Cleaned and De-duplicated pfBlockerNG source")
-    output_lines.append("! Last Updated: (Managed by GitHub Actions)")
-    output_lines.append("! Expires: 1 day\n")
+    # Add appropriate header
+    output_lines.extend(get_header(file_type))
 
     with open(input_file, 'r') as f_in:
         for line in f_in:
@@ -59,7 +76,14 @@ def convert():
     with open(output_file, 'w') as f_out:
         f_out.write("\n".join(output_lines))
     
-    print(f"Success: {len(seen_domains)} unique domains processed.")
+    print(f"Success: {len(seen_domains)} unique domains processed from {input_file} to {output_file}.")
+
+def convert():
+    """Convert all configured input files."""
+    for input_file, output_file in input_files.items():
+        file_type = 'blocked' if 'list.txt' in input_file else 'allowed'
+        print(f"Processing {input_file}...")
+        convert_file(input_file, output_file, file_type)
 
 if __name__ == "__main__":
     convert()
