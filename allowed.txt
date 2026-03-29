@@ -1,1 +1,2 @@
+# Allowed List
 syncthing.com
