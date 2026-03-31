@@ -38,3 +38,4 @@
 ||cisco.com^
 ||qualtrics.com^
 ||cisco.edcast.com^
+||cisco.sharepoint.com^
