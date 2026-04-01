@@ -116,3 +116,4 @@
 ||chatmate.tv^
 ||web.whatsapp.com^
 ||chatmate.io^
+||chat.xboxlive.com^
