@@ -111,7 +111,3 @@ jackfisherbooks.com
 spreaker.com
 chatmate.tv
 web.whatsapp.com
-youtube.com/shorts
-googlevideo.com/videoplayback?*video_id=shorts*
-facebook.com/reels
-fb.watch/reels
