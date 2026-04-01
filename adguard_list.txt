@@ -115,7 +115,3 @@
 ||spreaker.com^
 ||chatmate.tv^
 ||web.whatsapp.com^
-||youtube.com^
-||googlevideo.com^
-||facebook.com^
-||fb.watch^
