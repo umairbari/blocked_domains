@@ -115,3 +115,4 @@
 ||spreaker.com^
 ||chatmate.tv^
 ||web.whatsapp.com^
+||chatmate.io^
