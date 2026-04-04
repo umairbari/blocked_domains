@@ -41,3 +41,5 @@
 ||cisco.sharepoint.com^
 ||fastly-edge.com^
 ||microsoftonline.com^
+||github.com^
+||fedoraproject.org^
