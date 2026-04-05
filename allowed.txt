@@ -38,3 +38,4 @@ fastly-edge.com
 microsoftonline.com
 github.com
 fedoraproject.org
+foxesscloud.com
