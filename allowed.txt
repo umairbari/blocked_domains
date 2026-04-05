@@ -39,3 +39,4 @@ microsoftonline.com
 github.com
 fedoraproject.org
 foxesscloud.com
+fox.com
