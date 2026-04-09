@@ -117,3 +117,4 @@
 ||web.whatsapp.com^
 ||chatmate.io^
 ||chat.xboxlive.com^
+||cinemaos.live^
