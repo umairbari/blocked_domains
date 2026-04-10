@@ -47,3 +47,4 @@
 ||fox.com^
 ||fox-ess.com^
 ||fox-ess.tech^
+||capcut.com^
