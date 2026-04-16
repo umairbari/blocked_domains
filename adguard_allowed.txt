@@ -49,3 +49,4 @@
 ||fox-ess.tech^
 ||capcut.com^
 ||capcutapi.com^
+||data.microsoft.com^
