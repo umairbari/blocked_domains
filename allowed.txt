@@ -45,3 +45,5 @@ fox-ess.tech
 capcut.com
 capcutapi.com
 data.microsoft.com
+smartscreen.microsoft.com
+config.edge.skype.com
