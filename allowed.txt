@@ -47,3 +47,4 @@ capcutapi.com
 data.microsoft.com
 smartscreen.microsoft.com
 config.edge.skype.com
+lunarclientprod.com
