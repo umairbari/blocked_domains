@@ -53,3 +53,4 @@
 ||smartscreen.microsoft.com^
 ||config.edge.skype.com^
 ||lunarclientprod.com^
+||minecraft.net^
