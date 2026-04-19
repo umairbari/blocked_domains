@@ -54,3 +54,4 @@
 ||config.edge.skype.com^
 ||lunarclientprod.com^
 ||minecraft.net^
+||microsoft.com^
