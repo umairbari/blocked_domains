@@ -55,3 +55,6 @@
 ||lunarclientprod.com^
 ||minecraft.net^
 ||microsoft.com^
+||xbox.com^
+||msn.com^
+||live.com^
