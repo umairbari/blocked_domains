@@ -54,3 +54,12 @@ microsoftonline.com
 xbox.com
 msn.com
 live.com
+capcut.com
+capcutapi.com
+capcutapi.us
+capcutcdn-us.com
+byteoversea.com
+bytedance.com
+bytetos.com
+ibytedtos.com
+tiktokcdn.com
