@@ -58,3 +58,10 @@
 ||xbox.com^
 ||msn.com^
 ||live.com^
+||capcutapi.us^
+||capcutcdn-us.com^
+||byteoversea.com^
+||bytedance.com^
+||bytetos.com^
+||ibytedtos.com^
+||tiktokcdn.com^
